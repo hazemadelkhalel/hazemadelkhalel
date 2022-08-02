@@ -22,18 +22,18 @@ Here are some ideas to get you started:
 <br>
 
 ### Reach me at 📫: ###
-<a href="">
+<a href="https://www.linkedin.com/in/hazem-adel-08baba1ba/">
   <img align="center" alt="Falguni @LinkedIN" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
-  <a href="hazemadelkhalel@gmail.com">
+</a>   
+  <a href="mailto:hazemadelkhalel@gmail.com">
   <img align="center" alt="Falguni @Mail" height="35" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
-</a>
-<a href="https://twitter.com/hazemadel34%22%3E
+</a>   
+<a href="https://twitter.com/hazemadel34">
   <img align="center" alt="Falguni @Twitter" height="40" src="https://cdn-icons-png.flaticon.com/512/1384/1384065.png" />
-</a>   <a href="https://codeforces.com/profile/Yalahwy%22%3E
+</a>   <a href="https://codeforces.com/profile/Yalahwy">
   <img align="center" alt="Falguni @Codeforces" height="40" src="https://play-lh.googleusercontent.com/WsR_f03nbqW3qZjCZeXUYmnmhSWXo3hQhLX9hgl9QHydCgbXQi_VJeAwnmtuIgTHKdQ=w240-h480-rw" />
-</a>
-<a href="https://www.hackerrank.com/hazemadelkhalel?hr_r=1%22%3E
+</a>       
+<a href="https://www.hackerrank.com/hazemadelkhalel">
   <img align="center" alt="Falguni @Hackerrank" height="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" />
 </a>
 <br>
