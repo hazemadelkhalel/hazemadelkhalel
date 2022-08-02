@@ -1,4 +1,4 @@
-<h1>Do you wanna something ? 👋!</h1>
+<h1> علمكم الله ما ينفعكم و نفعكم بما تعلمتم و ذادكم علما </h1>
             
 <!--
 **hazemadelkhalel/hazemadelkhalel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
