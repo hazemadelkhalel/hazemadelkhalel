@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <br>
 
 ### Reach me at 📫: ###
-<a href="https://www.linkedin.com/in/hazem-adel-08baba1ba/">
+<a href="https://www.linkedin.com/in/hazemadelkhalel/">
   <img align="center" alt="Falguni @LinkedIN" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>   
   <a href="mailto:hazemadelkhalel@gmail.com">
