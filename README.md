@@ -1,25 +1,9 @@
 <h1 align = "center"> علمكم الله ما ينفعكم و نفعكم بما تعلمتم و زادكم علما </h1>
             
-<!--
-**hazemadelkhalel/hazemadelkhalel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-</div>
 
 ### Languages and Tools 🛠: ###
   
-<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">  <img height="50" src="https://javapro.io/wp-content/uploads/2022/04/SpringBoot-Logo-qu.png"> <img height="50" src="https://lh3.googleusercontent.com/proxy/LmPAhaY_NbClvVRaIvKQKaZUDcVBFhu87vEVHoCJfyjapMSYEosWKpuVLEadcBVgDb--nNZ-8F6LacZwbD6xoWt1lP3dU-5N5lDR4LTNjQEX04aefg">   <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">  <img height="50" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">  <img height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png">   <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  
-<br>
+<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png"> <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png">
 
 ### Reach me at 📫: ###
 <a href="https://www.linkedin.com/in/hazemadelkhalel/">
