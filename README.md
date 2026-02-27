@@ -17,9 +17,6 @@
 </a>   <a href="https://codeforces.com/profile/Rokba">
   <img align="center" alt="Falguni @Codeforces" height="40" src="https://play-lh.googleusercontent.com/WsR_f03nbqW3qZjCZeXUYmnmhSWXo3hQhLX9hgl9QHydCgbXQi_VJeAwnmtuIgTHKdQ=w240-h480-rw" />
 </a>       
-<a href="https://www.hackerrank.com/hazemadelkhalel">
-  <img align="center" alt="Falguni @Hackerrank" height="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" />
-</a>
 <br>
 <br>
 <p > <img src="https://github-readme-stats.vercel.app/api?username=hazemadelkhalel&show_icons=true" alt="HazemAdelKhalel" /> </p>
