@@ -4,9 +4,9 @@
 
 # Hazem Adel
 
-**Software Engineer @ [Activepieces](https://github.com/activepieces/activepieces) (YC S22) · 2× ICPC World Finalist**
+**Full-Stack Software Engineer @ [Activepieces](https://github.com/activepieces/activepieces) (YC S22) · 2× ICPC World Finalist**
 
-Full-stack engineer. I build and own end-to-end product features, from database models and APIs to React UIs, and keep systems fast and reliable in production.
+I own platform-critical systems end to end, from database models and APIs to React interfaces. Promoted from Product Engineer II to III in a year; now tech lead of a 4-engineer team.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hazemadelkhalel-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazemadelkhalel/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Rokba-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Rokba)
@@ -19,23 +19,25 @@ Full-stack engineer. I build and own end-to-end product features, from database 
 
 ---
 
-## 🚀 What I build
+## What I build
 
-At **Activepieces** (open-source workflow automation, 750+ integrations, 50,000+ daily users):
+At **Activepieces** (50,000+ daily users, 750+ integrations, 400+ merged PRs):
 
-- **End-to-end product features.** Owned the Templates platform (data model, explore/sharing/import-export React UIs, admin APIs), multi-tenant team and personal projects, and role-based access control with team invitations.
-- **Releases & Git-Sync.** Publish flows, connections, and tables to Git, promote across environments, diff releases, and run CI/CD releases that rebuild only changed pieces.
-- **Reliability & engine.** Cut webhook latency from 4s to 1-2s, ~40% fewer API errors via atomic Redis rate limiting, a flow-version backup-and-revert safeguard, Redis Sentinel HA, and migrated the E2E suite from Checkly to GitHub Actions.
-- **AI & platform APIs.** Tech-led the AI agent (tool-calling over 750+ integrations) and built the MCP server with OAuth 2.0 and RBAC.
+- **Templates platform.** Owned it end to end for 50,000+ users: the data model, the browse, sharing, and import/export React interfaces, and the admin APIs, across both flow and table templates.
+- **Multi-tenant projects.** Architected the team-and-personal-project model that backs every workspace on the platform.
+- **Releases & Git-Sync.** Version and promote flows, connections, and tables across environments; CI/CD rebuilds only the changed pieces out of 750+ instead of the whole catalog.
+- **Access control.** Role-based access control for 50,000+ users, with custom roles, a role-selector UI, and a 1M+ record migration.
+- **Reliability.** Cut webhook latency from 4s to 1-2s and API errors ~40%, added a flow-version backup-and-revert safeguard, and moved the E2E suite from Checkly to GitHub Actions.
+- **AI & platform APIs.** Tech-led the AI agent (tool-calling across 750+ integrations) and built the MCP server with OAuth 2.0 and RBAC.
 
-## 🏆 Competitive programming
+## Competitive programming
 
-- **2× ICPC World Finalist** (2024 & 2025), 62nd globally at the 2024 World Finals
-- **Gold Medalist & 1st place**, ACPC 2025 · Silver, ACPC 2024
+- **2× ICPC World Finalist** (2024 and 2025), 62nd globally at the 2024 World Finals
+- **Gold Medalist and 1st place**, ACPC 2025 · Silver, ACPC 2024
 - **Champion**, Egyptian Collegiate Programming Contest (2024, 2025)
 - Led ICPC training at Cairo University, mentoring 1,000+ students in algorithms and C++
 
-## 🛠️ Tech
+## Tech
 
 `TypeScript` · `Node.js` · `Fastify` · `PostgreSQL` · `Redis` · `BullMQ` · `React` · `Docker` · `C++`
 
@@ -43,8 +45,4 @@ At **Activepieces** (open-source workflow automation, 750+ integrations, 50,000+
 
 <div align="center">
 <sub>📄 <a href="#">Resume</a> · Based in Giza, Egypt</sub>
-
-<!-- Optional: one stats card reinforces your contribution standing. Uncomment to use.
-![Hazem's GitHub stats](https://github-readme-stats.vercel.app/api?username=hazemadelkhalel&show_icons=true&hide_border=true&theme=default)
--->
 </div>
