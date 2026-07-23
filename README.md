@@ -4,9 +4,9 @@
 
 # Hazem Adel
 
-**Product Engineer @ [Activepieces](https://github.com/activepieces/activepieces) (YC S22) · 2× ICPC World Finalist**
+**Software Engineer @ [Activepieces](https://github.com/activepieces/activepieces) (YC S22) · 2× ICPC World Finalist**
 
-Building AI agents and large-scale systems. I ship products from zero to one and keep them fast and reliable in production.
+Full-stack engineer. I build and own end-to-end product features, from database models and APIs to React UIs, and keep systems fast and reliable in production.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hazemadelkhalel-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazemadelkhalel/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Rokba-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Rokba)
@@ -23,9 +23,10 @@ Building AI agents and large-scale systems. I ship products from zero to one and
 
 At **Activepieces** (open-source workflow automation, 750+ integrations, 50,000+ daily users):
 
-- **Flagship AI agent** (tech lead, team of 3 to 4). Built from scratch a tool-calling conversational agent (65+ tools) that operates the whole platform; it became the company's primary product direction. Stateless API + BullMQ worker, streaming loop, self-healing recovery of stuck sessions, prompt-injection defense, RBAC, and an eval/regression CI gate across 10 model providers.
-- **MCP server**. OAuth 2.0 + RBAC that lets AI agents create and manage automations programmatically.
-- **Reliability & distributed systems**. Cut webhook latency from 4s to 1-2s, ~40% fewer API errors via atomic-Redis rate limiting, self-healing failure circuits, Redis Sentinel HA, and rollback-safe migrations.
+- **End-to-end product features.** Owned the Templates platform (data model, explore/sharing/import-export React UIs, admin APIs), multi-tenant team and personal projects, and role-based access control with team invitations.
+- **Releases & Git-Sync.** Publish flows, connections, and tables to Git, promote across environments, diff releases, and run CI/CD releases that rebuild only changed pieces.
+- **Reliability & engine.** Cut webhook latency from 4s to 1-2s, ~40% fewer API errors via atomic Redis rate limiting, a flow-version backup-and-revert safeguard, Redis Sentinel HA, and migrated the E2E suite from Checkly to GitHub Actions.
+- **AI & platform APIs.** Tech-led the AI agent (tool-calling over 750+ integrations) and built the MCP server with OAuth 2.0 and RBAC.
 
 ## 🏆 Competitive programming
 
@@ -36,7 +37,7 @@ At **Activepieces** (open-source workflow automation, 750+ integrations, 50,000+
 
 ## 🛠️ Tech
 
-`TypeScript` · `Node.js` · `Fastify` · `PostgreSQL` · `Redis` · `BullMQ` · `Docker` · `React` · `C++`
+`TypeScript` · `Node.js` · `Fastify` · `PostgreSQL` · `Redis` · `BullMQ` · `React` · `Docker` · `C++`
 
 ---
 
