@@ -6,7 +6,7 @@
 
 **Full-Stack Software Engineer @ [Activepieces](https://github.com/activepieces/activepieces) (YC S22) · 2× ICPC World Finalist**
 
-I own platform-critical systems end to end, from database models and APIs to React interfaces. Promoted from Product Engineer II to III in a year; now tech lead of a 4-engineer team.
+I own platform-critical systems end to end, from database models and APIs to React interfaces.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hazemadelkhalel-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazemadelkhalel/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Rokba-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Rokba)
